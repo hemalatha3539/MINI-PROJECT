@@ -390,3 +390,7 @@ box-shadow:  -46px -46px 92px #040404,
   text-align: center;
   margin-bottom:10px;
 }
+.btn1:hover {
+  color: aliceblue;
+  background-color:tomato;
+}
